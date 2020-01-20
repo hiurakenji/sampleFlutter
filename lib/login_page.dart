@@ -10,7 +10,7 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text('ログイン画面test'),
+        title: new Text('ログイン画面testもう一回'),
         leading: Container(),
       ),
       body: ListView(children: <Widget>[
